@@ -1,0 +1,2 @@
+# sif
+Scratch Image Format
